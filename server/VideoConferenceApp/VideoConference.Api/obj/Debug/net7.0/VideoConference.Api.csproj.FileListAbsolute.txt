@@ -1,0 +1,7 @@
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.csproj.AssemblyReference.cache
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.AssemblyInfoInputs.cache
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.AssemblyInfo.cs
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.csproj.CoreCompileInputs.cache
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משפחה\Desktop\נחמי\members-server\VideoConferenceApp\VideoConference.Api\obj\Debug\net7.0\VideoConference.Api.MvcApplicationPartsAssemblyInfo.cache

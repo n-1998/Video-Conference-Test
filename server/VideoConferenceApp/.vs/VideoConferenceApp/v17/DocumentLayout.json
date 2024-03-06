@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\videoconference.api\\videoconference.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|solutionrelative:videoconference.api\\videoconference.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\videoconference.api\\videoconference.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|solutionrelative:videoconference.api\\videoconference.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\videoconference.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|solutionrelative:videoconference.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\videoconference.api\\controllers\\discussioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8B356-CF68-4129-88AB-A7C7662A2042}|VideoConference.Api\\VideoConference.Api.csproj|solutionrelative:videoconference.api\\controllers\\discussioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\hubs\\mediahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\hubs\\mediahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\services\\mediahubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\services\\mediahubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\interfaces\\imediahubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\interfaces\\imediahubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\services\\discussionhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\services\\discussionhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\hubs\\discussionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\hubs\\discussionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\signalr\\interfaces\\idiscussionhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\signalr\\interfaces\\idiscussionhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\infrastructure\\configurations\\discussionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\discussionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\dto\\participantsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\dto\\participantsettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\dto\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\dto\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\dto\\discussionparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\dto\\discussionparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\dto\\discussiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\dto\\discussiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\entities\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\entities\\discussionparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\discussionparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\services\\discussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\services\\discussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\interfaces\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\interfaces\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\interfaces\\idiscussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idiscussionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\entities\\participantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\participantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\application\\common\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518DF8A-5FB3-40AF-8E83-25AA6D70338E}|Application\\Application.csproj|solutionrelative:application\\common\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\repositoryinterfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\infrastructure\\repositories\\discussionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\discussionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\repositoryinterfaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\repositoryinterfaces\\idiscussionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\repositoryinterfaces\\idiscussionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\infrastructure\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB347363-0ECA-4869-8094-7F91A3AC20DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\exceptions\\discussionnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\discussionnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\notfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|c:\\users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\videoconferenceapp\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E43FD-D3E2-40E2-8AB6-34B4FEE1D1D1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoConference.Api",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\VideoConference.Api.csproj",
+              "RelativeDocumentMoniker": "VideoConference.Api\\VideoConference.Api.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\VideoConference.Api.csproj",
+              "RelativeToolTip": "VideoConference.Api\\VideoConference.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T08:14:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscussionController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\Controllers\\DiscussionController.cs",
+              "RelativeDocumentMoniker": "VideoConference.Api\\Controllers\\DiscussionController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\Controllers\\DiscussionController.cs",
+              "RelativeToolTip": "VideoConference.Api\\Controllers\\DiscussionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:30:59.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\Program.cs",
+              "RelativeDocumentMoniker": "VideoConference.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\Program.cs",
+              "RelativeToolTip": "VideoConference.Api\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vygAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:38:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoConference.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\VideoConference.Api.csproj",
+              "RelativeDocumentMoniker": "VideoConference.Api\\VideoConference.Api.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\VideoConference.Api\\VideoConference.Api.csproj",
+              "RelativeToolTip": "VideoConference.Api\\VideoConference.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T10:48:18.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediaHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Hubs\\MediaHub.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Hubs\\MediaHub.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Hubs\\MediaHub.cs",
+              "RelativeToolTip": "Application\\SignalR\\Hubs\\MediaHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:07:32.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaHubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Services\\MediaHubService.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Services\\MediaHubService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Services\\MediaHubService.cs",
+              "RelativeToolTip": "Application\\SignalR\\Services\\MediaHubService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:29:24.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMediaHubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Interfaces\\IMediaHubService.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Interfaces\\IMediaHubService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Interfaces\\IMediaHubService.cs",
+              "RelativeToolTip": "Application\\SignalR\\Interfaces\\IMediaHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:30:01.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscussionHubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Services\\DiscussionHubService.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Services\\DiscussionHubService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Services\\DiscussionHubService.cs",
+              "RelativeToolTip": "Application\\SignalR\\Services\\DiscussionHubService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:04:02.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiscussionHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Hubs\\DiscussionHub.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Hubs\\DiscussionHub.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Hubs\\DiscussionHub.cs",
+              "RelativeToolTip": "Application\\SignalR\\Hubs\\DiscussionHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:57:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDiscussionHubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Interfaces\\IDiscussionHubService.cs",
+              "RelativeDocumentMoniker": "Application\\SignalR\\Interfaces\\IDiscussionHubService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\SignalR\\Interfaces\\IDiscussionHubService.cs",
+              "RelativeToolTip": "Application\\SignalR\\Interfaces\\IDiscussionHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:42:20.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiscussionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Configurations\\DiscussionConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\DiscussionConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Configurations\\DiscussionConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\DiscussionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:24:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\ParticipantDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ParticipantDto.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\ParticipantDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ParticipantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:32:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParticipantSettingsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\ParticipantSettingsDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ParticipantSettingsDto.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\ParticipantSettingsDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ParticipantSettingsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:02:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiscussionParticipantDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\DiscussionParticipantDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\DiscussionParticipantDto.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\DiscussionParticipantDto.cs",
+              "RelativeToolTip": "Application\\Dto\\DiscussionParticipantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:02:47.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscussionDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\DiscussionDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\DiscussionDto.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Dto\\DiscussionDto.cs",
+              "RelativeToolTip": "Application\\Dto\\DiscussionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:59:48.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiscussionParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\DiscussionParticipant.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DiscussionParticipant.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\DiscussionParticipant.cs",
+              "RelativeToolTip": "Domain\\Entities\\DiscussionParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:46:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Discussion.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Discussion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Discussion.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Discussion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Discussion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:47:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:51:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiscussionService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\DiscussionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\DiscussionService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\DiscussionService.cs",
+              "RelativeToolTip": "Application\\Services\\DiscussionService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:53:52.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T11:58:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:40:20.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\ParticipantService.cs",
+              "RelativeToolTip": "Application\\Services\\ParticipantService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:35:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Application\\Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:28:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IParticipantService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IParticipantService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IParticipantService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:24:57.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IServiceManager.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:25:41.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T15:22:17.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDiscussionService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IDiscussionService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IDiscussionService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Interfaces\\IDiscussionService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IDiscussionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:53:44.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ParticipantSettings.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\ParticipantSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ParticipantSettings.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\ParticipantSettings.cs",
+              "RelativeToolTip": "Domain\\Entities\\ParticipantSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:03:48.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Participant.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Participant.cs",
+              "RelativeToolTip": "Domain\\Entities\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:47:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Common\\Permission.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Permission.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Application\\Common\\Permission.cs",
+              "RelativeToolTip": "Application\\Common\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:18:02.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:22:46.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:46:52.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DiscussionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Repositories\\DiscussionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DiscussionRepository.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Repositories\\DiscussionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DiscussionRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:07:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IRepositoryManager.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:49:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDiscussionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IDiscussionRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\RepositoryInterfaces\\IDiscussionRepository.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\RepositoryInterfaces\\IDiscussionRepository.cs",
+              "RelativeToolTip": "Domain\\RepositoryInterfaces\\IDiscussionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:18:12.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Infrastructure\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:02:33.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DiscussionNotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Exceptions\\DiscussionNotFoundException .cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\DiscussionNotFoundException .cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Exceptions\\DiscussionNotFoundException .cs",
+              "RelativeToolTip": "Domain\\Exceptions\\DiscussionNotFoundException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:14:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Exceptions\\NotFoundException .cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\NotFoundException .cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Exceptions\\NotFoundException .cs",
+              "RelativeToolTip": "Domain\\Exceptions\\NotFoundException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:18:54.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T12:30:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05E4\u05D7\u05D4\\Desktop\\\u05E0\u05D7\u05DE\u05D9\\members-server\\VideoConferenceApp\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:33:21.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
